@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ad1ae89-b189-449e-891f-73c677cf7bf6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="_FSPHP_FILE" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lhtTYc7m0YAh8tZNwvQ6kd5Hbl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ad1ae89-b189-449e-891f-73c677cf7bf6" name="Default Changelist" comment="" />
+      <created>1608061158092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608061158092</updated>
+      <workItem from="1608061159115" duration="1776000" />
+      <workItem from="1608063047071" duration="176000" />
+      <workItem from="1608063231154" duration="126000" />
+      <workItem from="1608063370946" duration="2965000" />
+      <workItem from="1608224446910" duration="1339000" />
+      <workItem from="1608225813252" duration="3778000" />
+      <workItem from="1608232038460" duration="1292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1639" y="94" width="588" height="898" key="#PHP" timestamp="1608225434970">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1639" y="94" width="588" height="898" key="#PHP/0.0.2560.1080/-2560.2.2560.1080/326.-1080.1280.720@0.0.2560.1080" timestamp="1608225434970" />
+    <state x="1374" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608225659193">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1374" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.2.2560.1080/326.-1080.1280.720/0.0.2560.1080@0.0.2560.1080" timestamp="1608063377600" />
+    <state x="1374" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1080/-2560.2.2560.1080/326.-1080.1280.720@0.0.2560.1080" timestamp="1608225659193" />
+    <state x="852" y="253" width="1073" height="709" key="SettingsEditor" timestamp="1608226447092">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1262" y="223" width="1073" height="709" key="SettingsEditor/-2560.2.2560.1080/326.-1080.1280.720/0.0.2560.1080@0.0.2560.1080" timestamp="1608064526887" />
+    <state x="852" y="253" key="SettingsEditor/0.0.2560.1080/-2560.2.2560.1080/326.-1080.1280.720@0.0.2560.1080" timestamp="1608226447092" />
+  </component>
+</project>

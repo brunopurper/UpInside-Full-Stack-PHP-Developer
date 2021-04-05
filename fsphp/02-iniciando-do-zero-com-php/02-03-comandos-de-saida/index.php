@@ -64,4 +64,8 @@ vprintf($company, $array);
  */
 fullStackPHPClassSession("var_dump", __LINE__);
 
-var_dump($array);
+$b = 3.1;
+$c = true;
+var_dump($b,$c);
+
+

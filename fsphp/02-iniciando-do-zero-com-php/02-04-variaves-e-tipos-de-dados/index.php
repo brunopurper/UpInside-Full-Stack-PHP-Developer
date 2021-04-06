@@ -7,7 +7,9 @@ fullStackPHPClassName("02.04 - Variáveis e tipos de dados");
  * [ variáveis ] https://php.net/manual/pt_BR/language.variables.php
  */
 fullStackPHPClassSession("variáveis", __LINE__);
+
 //Podemos usar o underscore tbm => $user_first_name
+
 $userFirstName = "Robson";
 $userLastName = "Leite";
 $UserAge = "32";

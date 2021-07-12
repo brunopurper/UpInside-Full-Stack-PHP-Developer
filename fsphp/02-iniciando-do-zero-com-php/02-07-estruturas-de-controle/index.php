@@ -13,11 +13,12 @@ $test = true;
 
 if ($test) {
     var_dump(true);
+    echo "Tu é pika mano!";
 } else {
     var_dump(false);
 }
 
-$age = 56;
+$age = 16;
 
 if ($age < 20) {
     var_dump("Bandas coloridas");
@@ -28,7 +29,7 @@ if ($age < 20) {
     var_dump("Rock and roll raiz");
 }
 
-$hour = 23;
+$hour = 3;
 
 if($hour >= 5 && $hour < 23 ) {
     if ($hour < 7){
@@ -36,7 +37,6 @@ if($hour >= 5 && $hour < 23 ) {
     }else {
         var_dump("After Bridge");
     }
-    var_dump("");
 } else {
     var_dump("ZZZZZZZZZZ");
 }

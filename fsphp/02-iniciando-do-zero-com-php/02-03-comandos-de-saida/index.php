@@ -66,6 +66,4 @@ fullStackPHPClassSession("var_dump", __LINE__);
 
 $b = 3.1;
 $c = true;
-var_dump($b,$c);
-
-
+var_dump($b,$c); 

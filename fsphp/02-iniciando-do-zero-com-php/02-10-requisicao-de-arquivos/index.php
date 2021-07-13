@@ -7,6 +7,12 @@ fullStackPHPClassName("02.10 - Requisição de arquivos");
  * [ include_once ] https://php.net/manual/pt_BR/function.include-once.php
  */
 fullStackPHPClassSession("include, include_once", __LINE__);
+include __DIR__."/header.php";
+$profile = new StdClass();
+$profile -> name = "Robson";
+$profile -> company = "Upinside";
+$profile -> email = "bla";
+include __DIR__."/profile.php";
 
 
 /*

@@ -12,6 +12,8 @@ Full Stack PHP Developer Console CSS
     --red: #d94452;
 }
 
+
+
 * {
     margin: 0;
     padding: 0;
@@ -23,6 +25,7 @@ body {
     padding: 20px 20px 50px 20px;
     overflow-x: hidden;
     color: #333333;
+    background-color: #333333;!important;
 }
 
 a {
@@ -188,7 +191,7 @@ form button:hover {
 
 .xdebug-var-dump {
     overflow: auto;
-    background: rgba(0, 0, 0, 0.05);
+    background: whitesmoke;
     margin: 20px 0;
     padding: 20px;
     -webkit-border-radius: 4px;

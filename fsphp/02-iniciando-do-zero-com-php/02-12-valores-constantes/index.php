@@ -7,7 +7,8 @@ fullStackPHPClassName("02.12 - Constantes e constantes mágicas");
  */
 fullStackPHPClassSession("constantes", __LINE__);
 
-
+define("COURSE", "Full Stack PHP");
+const AUTHOR = "Robson";
 /*
  * [ constantes mágicas ] https://php.net/manual/pt_BR/language.constants.predefined.php
  */

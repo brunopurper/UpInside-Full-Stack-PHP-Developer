@@ -37,4 +37,5 @@ echo $pay;
  */
 fullStackPHPClassSession("dinamic arguments", __LINE__);
 
+var_dump(myTeam("Kaue","Gustavo", "Gah", "João"));
 

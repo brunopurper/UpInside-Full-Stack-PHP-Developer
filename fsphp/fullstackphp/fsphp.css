@@ -25,7 +25,7 @@ body {
     padding: 20px 20px 50px 20px;
     overflow-x: hidden;
     color: #333333;
-    background-color: #333333;!important;
+    background-color: #333333;
 }
 
 a {
@@ -36,11 +36,13 @@ h1, h2, h3, h4, h5, h6, p, article, pre {
     margin: 20px 0;
     padding-left: 10px;
     border-left: 5px solid var(--fsline);
+    color: white;
 }
 
 p {
     font-size: 0.875em;
     margin: 10px 0;
+    color: white;
 }
 
 .logofsphp {
@@ -197,6 +199,7 @@ form button:hover {
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
+    color: black;
 }
 
 .xdebug-var-dump * {
